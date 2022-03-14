@@ -1,2 +1,2 @@
 # flink-api
-Backend for the Flink fileshareing server
+Backend for the Flink filesharing server
